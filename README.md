@@ -3,14 +3,13 @@ Project Overview
 This project aims to predict the type of crop suitable for a given soil based on various soil properties. It utilizes logistic regression, a machine learning algorithm, to analyze soil features and determine the most influential factor in predicting crop suitability.
 Dataset
 
-The dataset used in this project is soil_measures.csv, which contains multiple soil characteristics and their corresponding crops. The key features in the dataset include:
+The dataset used in this project is soil_measures.csv, which contains multiple soil characteristics and their corresponding crops.
+Dataset link:  https://in.docworkspace.com/d/sIEOPl83BAbGosb4G
+The key features in the dataset include:
 
 N: Nitrogen content
-
 P: Phosphorus content
-
 K: Potassium content
-
 ph: Soil pH level
 
 crop: The target variable representing the type of crop
